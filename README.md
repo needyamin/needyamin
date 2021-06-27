@@ -1,4 +1,4 @@
-## Md Yamin Hossain || Full Stack Web Developer
+## Md. Yamin Hossain || Full Stack Web Developer
 
 `🎓 National University, Bangladesh`<br/>
 `🏫 Studies BBA Department of Accounting`<br/>
