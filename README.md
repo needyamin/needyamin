@@ -16,7 +16,7 @@
 	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
 
 
-I’m Yamin, web developer with advance programming experience specializing in frontend and backend development.Having an in-depth knowledge including advanced Python3, PHP7, MySQLi, SQLite, JavaScript and Cyber Security Field. I do all kind of pentesting specifically linux and windows based. 
+I’m Yamin, full stack web developer specializing in frontend and backend development. Having an in-depth knowledge including Python, PHP, SQL, JavaScript, and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. I have been developing web applications using the latest technologies and frameworks with a proven track record. Also, I do web application penetration tests.
 
 ### Skills
 
