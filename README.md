@@ -2,7 +2,7 @@
 
 `🎓 National University, Bangladesh`<br/>
 `🏫 Studies BBA Department of Accounting`<br/>
-`📧 needyamin@gmail.com`<br/>
+`📧 needyamin@ansnew.com`<br/>
 `🏠 Jessore, Khulna, Bangladesh`<br/>
 
 
