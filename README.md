@@ -40,6 +40,9 @@ I’m Yamin, full stack web developer specializing in frontend and backend devel
 ### Professional Certificate And Certification
 >☑ Computer Science for Web Programming https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/
 
+>☑ Web Programming with Python and JavaScript https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74
+
+
 >☑ Ethical Hacking From Scratch https://www.udemy.com/certificate/UC-7413dcc1-3727-4103-84ed-5c56e2df932b/
 
 <div align="center">
