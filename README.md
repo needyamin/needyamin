@@ -21,18 +21,19 @@ I’m Yamin, full stack web developer specializing in frontend and backend devel
 ### Skills
 
 <p>
-  <img src="https://img.shields.io/badge/PHP-★★★★★-ff7821" />
-  <img src="https://img.shields.io/badge/Python-★★★★★-306998" />
+  <img src="https://img.shields.io/badge/Python 3.9-★★★★★-306998" />
+  <img src="https://img.shields.io/badge/PHP 8.0-★★★★★-ff7821" />
   <img src="https://img.shields.io/badge/JavaScript-★★★★★-important" />
-  <img src="https://img.shields.io/badge/jQuery-★★★★★-00758F" />  
-  <img src="https://img.shields.io/badge/MySQL-★★★★★-F29111" /> 
-  <img src="https://img.shields.io/badge/BootStrap4-★★★★★-563d7c" />
-  <img src="https://img.shields.io/badge/Flask-★★★★★-important" />
-  <img src="https://img.shields.io/badge/Django-★★★★★-092e20" />
+  <img src="https://img.shields.io/badge/SQL-★★★★★-F29111" />
+  <img src="https://img.shields.io/badge/SQLite 3.37-★★★★★-F29111" />
+  <img src="https://img.shields.io/badge/jQuery 3.6-★★★★★-00758F" />   
+  <img src="https://img.shields.io/badge/BootStrap v5.0-★★★★★-563d7c" />
+  <img src="https://img.shields.io/badge/Flask 2.0-★★★★★-important" />
+  <img src="https://img.shields.io/badge/Django 3.2-★★★★★-092e20" />
   <img src="https://img.shields.io/badge/HTML5-★★★★★-ff7851" /> 
   <img src="https://img.shields.io/badge/CSS3-★★★★★-44b2fb" /> 
   <img src="https://img.shields.io/badge/SCSS-★★★★★-CD6799" />
-  <img src="https://img.shields.io/badge/Git-★★★★★-F1502F" />
+  <img src="https://img.shields.io/badge/Git 2.31-★★★★★-F1502F" />
   <img src="https://img.shields.io/badge/Github-★★★★★-6e5494" />
     
 </p>
