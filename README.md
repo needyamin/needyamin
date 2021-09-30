@@ -42,16 +42,13 @@ I’m Yamin, full stack web developer specializing in frontend and backend devel
     
 </p>
 
-### Certificate & Certification
+### Certificate & Certification 
 >☑ Computer Science for Web Programming <a href="https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/" target="_blank"> edX Professional Certificate</a>
 
 >☑ Web Programming with Python and JavaScript <a href="https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank"> HarvardX Certificate</a>
 
 
 >☑ Ethical Hacking From Scratch <a href="https://www.udemy.com/certificate/UC-7413dcc1-3727-4103-84ed-5c56e2df932b/" target="_blank"> Udemy Certification</a>
-
-
-![](https://komarev.com/ghpvc/?username=needyamin&color=brightgreen&style=flat-square)
 
 
 <div align="center">
@@ -62,3 +59,4 @@ I’m Yamin, full stack web developer specializing in frontend and backend devel
 </div>
 
 
+> ![](https://komarev.com/ghpvc/?username=needyamin&color=brightgreen&style=flat-square)
