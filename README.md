@@ -14,6 +14,10 @@
 
 <a href="https://facebook.com/needyaminofficial" target="_blank">
 	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
+	
+
+<a href="https://www.hackerrank.com/needyamin" target="_blank">
+	<img src="img/hackerrank.png" width="33" height="30" alt="hackerrank"/></a> 	
 
 
 I’m Yamin, full stack web developer specializing in frontend and backend development. Having an in-depth knowledge including Python, PHP, SQL, JavaScript, and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
@@ -46,10 +50,15 @@ I’m Yamin, full stack web developer specializing in frontend and backend devel
 
 >☑ Ethical Hacking From Scratch <a href="https://www.udemy.com/certificate/UC-7413dcc1-3727-4103-84ed-5c56e2df932b/" target="_blank"> Udemy Certification</a>
 
+
+![](https://komarev.com/ghpvc/?username=needyamin&color=brightgreen&style=flat-square)
+
+
 <div align="center">
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=needyamin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Yamin's github stats](https://github-readme-stats.vercel.app/api/?username=needyamin&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)
 	
 </div>
+
 
