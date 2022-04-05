@@ -2,7 +2,7 @@
 
 `🏫 National University, Bangladesh`<br/>
 `🎓 Studies BBA (Honours) Department of Accounting`<br/>
-`📧 needyamin@ansnew.com`<br/>
+`📩 needyamin@ansnew.com`<br/>
 `🏠 Bheramara, Kushtia, Bangladesh `<br/>
 
 
