@@ -1,9 +1,9 @@
 ## Md. Yamin Hossain || Full Stack Web Developer
 
-`🎓 National University, Bangladesh`<br/>
-`🏫 Studies BBA (Honours) Department of Accounting`<br/>
+`🏫 National University, Bangladesh`<br/>
+`🎓 Studies BBA (Honours) Department of Accounting`<br/>
 `📧 needyamin@ansnew.com`<br/>
-`🏠 Jessore, Khulna, Bangladesh`<br/>
+`🏠 Bheramara, Kushtia, Bangladesh `<br/>
 
 
 <a href="https://www.twitter.com/needyamin" target="_blank">
