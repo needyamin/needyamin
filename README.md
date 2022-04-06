@@ -52,7 +52,7 @@ I’m Yamin! A full stack web developer specializing in frontend and backend dev
 
 >☑ Google Data Analytics Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LE3U3PBB8U2L" target="_blank"> Coursera Professional Certificate</a>
 
->☑ Web Programming with Python and JavaScript <a href="https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank"> HarvardX Certificate</a>
+>☑ Web Programming with Python and JavaScript <a href="https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank"> CS50W Certificate</a>
 
 
 >☑ Ethical Hacking From Scratch <a href="https://www.udemy.com/certificate/UC-7413dcc1-3727-4103-84ed-5c56e2df932b/" target="_blank"> Udemy Certification</a>
