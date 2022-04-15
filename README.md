@@ -24,7 +24,7 @@
 	<img src="img/ansnew.png" width="33" height="30" alt="ANSNEW"/></a> 	
 	
 	
-I’m Yamin! A full stack web developer specializing in frontend and backend development. Having an in-depth knowledge including Python, PHP, SQL, R, JavaScript and Cyber Security Field.
+I’m Yamin! A full stack web developer specializing in frontend and backend development. Proficient in  Python, PHP, SQL, JAVASCRIPT and Cyber Security.
 
 ### Skills
 
