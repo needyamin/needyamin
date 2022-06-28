@@ -14,15 +14,7 @@
 
 <a href="https://facebook.com/needyaminofficial" target="_blank">
 	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
-	
-
-<a href="https://www.hackerrank.com/needyamin" target="_blank">
-	<img src="img/hackerrank.png" width="33" height="30" alt="hackerrank"/></a> 	
-
-
-<a href="https://www.ansnew.com/" target="_blank">
-	<img src="img/ansnew.png" width="33" height="30" alt="ANSNEW"/></a> 	
-	
+			
 	
 I’m Yamin! A full stack web developer specializing in frontend and backend development. Proficient in  Python, PHP, SQL, JAVASCRIPT and Cyber Security.
 
