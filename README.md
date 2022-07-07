@@ -31,6 +31,7 @@ I’m Yamin! A full stack web developer specializing in frontend and backend dev
   <img src="https://img.shields.io/badge/BootStrap v5.0+-★★★★★-563d7c" />
   <img src="https://img.shields.io/badge/Flask 2.0+-★★★★★-important" />
   <img src="https://img.shields.io/badge/Django 3.2+-★★★★★-092e20" />
+  <img src="https://img.shields.io/badge/Laravel 8+-★★★★★-00758F" />
   <img src="https://img.shields.io/badge/HTML5-★★★★★-ff7851" /> 
   <img src="https://img.shields.io/badge/CSS3-★★★★★-44b2fb" /> 
   <img src="https://img.shields.io/badge/SCSS-★★★★★-CD6799" />
