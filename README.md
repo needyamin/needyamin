@@ -1,7 +1,7 @@
 ## Md. Yamin Hossain || Full Stack Web Developer
 
-`🏫 National University, Bangladesh`<br/>
-`🎓 Studied BBA (Honours) Department of Accounting`<br/>
+`🏫 Jahangirnagar University`<br/>
+`🎓 Studies PM-ASDS (Masters) at Department of Statistics `<br/>
 `📩 needyamin@ansnew.com`<br/>
 `🏠 Bheramara, Kushtia, Bangladesh `<br/>
 
