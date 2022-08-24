@@ -3,7 +3,7 @@
 `🏫 Jahangirnagar University`<br/>
 `🎓 Studies PM-ASDS (Masters) at Department of Statistics `<br/>
 `📩 needyamin@ansnew.com`<br/>
-`🏠 Bheramara, Kushtia, Bangladesh `<br/>
+`🏠 Kalyanpur, Dhaka, Bangladesh `<br/>
 
 
 <a href="https://www.twitter.com/needyamin" target="_blank">
