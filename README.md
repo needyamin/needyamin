@@ -3,7 +3,7 @@
 `🏫 Jahangirnagar University`<br/>
 `🎓 Studies Data Science (MS) at Department of Statistics `<br/>
 `📩 needyamin@ansnew.com`<br/>
-`🏠 Dhaka, Bangladesh `<br/>
+`🏠 Dhaka,Bangladesh `<br/>
 
 
 <a href="https://www.twitter.com/needyamin" target="_blank">
