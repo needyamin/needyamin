@@ -21,21 +21,21 @@ I'm a full-stack developer with experience in building websites for small and me
 ### Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python 3.9+-★★★★★-306998" />
-  <img src="https://img.shields.io/badge/PHP 8.0+-★★★★★-ff7821" />
+  <img src="https://img.shields.io/badge/Python-★★★★★-306998" />
+  <img src="https://img.shields.io/badge/PHP-★★★★★-ff7821" />
   <img src="https://img.shields.io/badge/JavaScript-★★★★★-important" />
   <img src="https://img.shields.io/badge/SQL-★★★★★-F29111" />
+  <img src="https://img.shields.io/badge/Java-★★★★★-00758F" />
   <img src="https://img.shields.io/badge/R-★★★★★-R29111" />
-  <img src="https://img.shields.io/badge/SQLite 3.37+-★★★★★-S29111" />
-  <img src="https://img.shields.io/badge/jQuery 3.6+-★★★★★-00758F" />   
-  <img src="https://img.shields.io/badge/BootStrap v5.0+-★★★★★-563d7c" />
-  <img src="https://img.shields.io/badge/Flask 2.0+-★★★★★-important" />
-  <img src="https://img.shields.io/badge/Django 3.2+-★★★★★-092e20" />
-  <img src="https://img.shields.io/badge/Laravel 8+-★★★★★-00758F" />
-  <img src="https://img.shields.io/badge/HTML5-★★★★★-ff7851" /> 
-  <img src="https://img.shields.io/badge/CSS3-★★★★★-44b2fb" /> 
-  <img src="https://img.shields.io/badge/SCSS-★★★★★-CD6799" />
-  <img src="https://img.shields.io/badge/Git 2.31+-★★★★★-F1502F" />
+  <img src="https://img.shields.io/badge/SQLite-★★★★★-S29111" />
+  <img src="https://img.shields.io/badge/jQuery-★★★★★-00758F" />   
+  <img src="https://img.shields.io/badge/BootStrap-★★★★★-563d7c" />
+  <img src="https://img.shields.io/badge/Django-★★★★★-092e20" />
+  <img src="https://img.shields.io/badge/Laravel-★★★★★-00758F" />
+  <img src="https://img.shields.io/badge/Android Studio-★★★★★-09758F" />
+  <img src="https://img.shields.io/badge/AWS-★★★★★-09758F" />
+  <img src="https://img.shields.io/badge/Cloudflare-★★★★★-09758F" />
+  <img src="https://img.shields.io/badge/Git-★★★★★-F1502F" />
   <img src="https://img.shields.io/badge/Github-★★★★★-6e5494" />
     
 </p>
