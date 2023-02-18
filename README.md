@@ -1,8 +1,8 @@
 ## Md. Yamin Hossain || Full Stack Web Developer
-`🎓 Studies M.Sc Applied Statistics and Data Science`<br/>
-`🏫 Department of Statistics, Jahangirnagar University`<br/>
-`📩 needyamin@ansnew.com`<br/>
-`🏠 Dhaka,Bangladesh `<br/>
+🎓 Studies M.Sc Applied Statistics and Data Science <br/>
+🏫 Department of Statistics, Jahangirnagar University <br/>
+📩 needyamin@ansnew.com <br/>
+🏠 Dhaka,Bangladesh <br/>
 
 
 <a href="https://www.twitter.com/needyamin" target="_blank">
