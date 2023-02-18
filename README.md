@@ -17,6 +17,19 @@
 	
 I'm a full-stack web developer with experience in building websites for small and medium sized businesses. Specializing in frontend and backend development. Proficient in  Python, PHP, SQL, JAVASCRIPT and Cyber Security.
 
+### Certificate & Certification 
+>☑ Computer Science for Web Programming <a href="https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/" target="_blank"> edX </a>
+
+>☑ Google Data Analytics Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LE3U3PBB8U2L" target="_blank"> Coursera </a>
+
+>☑ Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
+
+>☑ Ethical Hacking From Scratch <a href="https://www.udemy.com/certificate/UC-7413dcc1-3727-4103-84ed-5c56e2df932b/" target="_blank"> Udemy </a>
+
+>☑ Harvard Online (CS50 Certificate) <a href="http://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank">
+>http://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74</a>
+
+
 ### Skills
 
 <p>
@@ -38,18 +51,4 @@ I'm a full-stack web developer with experience in building websites for small an
   <img src="https://img.shields.io/badge/Github-★★★★★-6e5494" />
     
 </p>
-
-### Certificate & Certification 
->☑ Computer Science for Web Programming <a href="https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/" target="_blank"> edX </a>
-
->☑ Google Data Analytics Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LE3U3PBB8U2L" target="_blank"> Coursera </a>
-
->☑ Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
-
->☑ Ethical Hacking From Scratch <a href="https://www.udemy.com/certificate/UC-7413dcc1-3727-4103-84ed-5c56e2df932b/" target="_blank"> Udemy </a>
-
->☑ Harvard Online (CS50 Certificate) <a href="http://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank">
->http://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74</a>
-
-
 ---------------------------------------------------------------------------------------------------------------------
