@@ -15,7 +15,7 @@
 	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
 			
 	
-I'm a full-stack developer with experience in building websites for small and medium sized businesses. Specializing in frontend and backend development. Proficient in  Python, PHP, SQL, JAVASCRIPT and Cyber Security.
+I'm a full-stack web developer with experience in building websites for small and medium sized businesses. Specializing in frontend and backend development. Proficient in  Python, PHP, SQL, JAVASCRIPT and Cyber Security.
 
 ### Skills
 
