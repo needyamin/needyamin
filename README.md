@@ -24,8 +24,6 @@ I'm a full-stack web developer with experience in building websites for small an
 
 >☑ Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
 
->☑ Ethical Hacking From Scratch <a href="https://www.udemy.com/certificate/UC-7413dcc1-3727-4103-84ed-5c56e2df932b/" target="_blank"> Udemy </a>
-
 >☑ Harvard Online (CS50 Certificate) <a href="http://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank">
 >http://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74</a>
 
