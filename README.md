@@ -18,13 +18,13 @@
 I'm a computer programmer with experience in building software and websites for small and medium-sized businesses, specializing in frontend and backend development. Proficient in Python, PHP, SQL, JavaScript, and Cybersecurity.
 
 ### Certificate & Certification 
->☑ Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
+> Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
 
->☑ Google Data Analytics Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LE3U3PBB8U2L" target="_blank"> Coursera </a>
+> Google Data Analytics Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LE3U3PBB8U2L" target="_blank"> Coursera </a>
 
->☑ CS50 Congratulates <a href="https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank"> Awarded from Cambridge, Massachusetts</a>
+> CS50 Congratulates <a href="https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank"> Awarded from Cambridge, Massachusetts</a>
 
->☑ Professional Certificate in Computer Science for Web Programming <a href="https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/" target="_blank"> offered by HarvardX, in collaboration with edX </a>
+> Professional Certificate in Computer Science for Web Programming <a href="https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/" target="_blank"> offered by HarvardX, in collaboration with edX </a>
 
 ### Skills
 
