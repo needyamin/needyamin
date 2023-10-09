@@ -31,19 +31,19 @@ I'm a computer programmer with experience in building software and websites for 
 <p>
   <img src="https://img.shields.io/badge/Python-★★★★★-306998" />
   <img src="https://img.shields.io/badge/PHP-★★★★★-ff7821" />
-  <img src="https://img.shields.io/badge/JavaScript-★★★★★-important" />
   <img src="https://img.shields.io/badge/SQL-★★★★★-F29111" />
-  <img src="https://img.shields.io/badge/Java-★★★★★-00758F" />
-  <img src="https://img.shields.io/badge/R-★★★★★-R29111" />
   <img src="https://img.shields.io/badge/SQLite-★★★★★-S29111" />
+  <img src="https://img.shields.io/badge/R-★★★★★-R29111" />
+  <img src="https://img.shields.io/badge/Java-★★★★★-00758F" />
+  <img src="https://img.shields.io/badge/JavaScript-★★★★★-important" />
   <img src="https://img.shields.io/badge/jQuery-★★★★★-00758F" />   
   <img src="https://img.shields.io/badge/BootStrap-★★★★★-563d7c" />
   <img src="https://img.shields.io/badge/Django-★★★★★-092e20" />
   <img src="https://img.shields.io/badge/Laravel-★★★★★-00758F" />
   <img src="https://img.shields.io/badge/Android Studio-★★★★★-09758F" />
   <img src="https://img.shields.io/badge/AWS-★★★★★-09758F" />
-  <img src="https://img.shields.io/badge/Cloudflare-★★★★★-09758F" />
-  <img src="https://img.shields.io/badge/Git-★★★★★-F1502F" />
+  <img src="https://img.shields.io/badge/Cloud Computing★★★★★-09758F" />
+  <img src="https://img.shields.io/badge/CI/CD pipelines-★★★★★-F1502F" />
   <img src="https://img.shields.io/badge/Github-★★★★★-6e5494" />
     
 </p>
