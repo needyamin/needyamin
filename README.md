@@ -1,5 +1,5 @@
 ## Md. Yamin Hossain 🕷️
-`🎓 Studied Master of Science (Applied Statistics and Data Science)` <br/>
+`🎓 Studied Master of Science in Applied Statistics and Data Science` <br/>
 `🏫 Department of Statistics, Jahangirnagar University` <br/>
 `📩 needyamin@ansnew.com` <br/>
 `🏠 Dhaka,Bangladesh` <br/>
