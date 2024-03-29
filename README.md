@@ -18,7 +18,7 @@
 I'm a computer programmer with experience in building software and websites for small and medium-sized businesses, specializing in frontend and backend development. Proficient in Python, PHP, SQL, JavaScript, and Cybersecurity.
 
 ### Certificate & Certification 
-> Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" style="text-decoration:none;" target="_blank"> Coursera </a>
+> Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
 
 > Google Data Analytics Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LE3U3PBB8U2L" style="text-decoration:none;" target="_blank"> Coursera </a>
 
