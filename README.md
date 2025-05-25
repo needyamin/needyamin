@@ -15,7 +15,7 @@
 	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
 			
 	
-I'm a computer programmer with experience in building software and websites for small and medium-sized businesses, specializing in frontend and backend development. Proficient in Python, PHP, SQL, JavaScript, and Cybersecurity.
+I am a DevOps engineer with a strong background in building and deploying software and websites for small to medium-sized businesses, specializing in frontend and backend development. Proficient in Python, PHP, SQL, JavaScript, and Cybersecurity.
 
 ### Certificate & Certification 
 > Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
