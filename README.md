@@ -11,7 +11,7 @@
 
 > Professional Certificate in Computer Science for Web Programming <a href="https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/" target="_blank"> offered by HarvardX, in collaboration with edX </a>
 
-### Professional skills
+### Professional Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-★★★★★-306998" />
