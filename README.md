@@ -8,9 +8,6 @@
 <a href="https://www.twitter.com/needyamin" target="_blank">
     <img src="img/twitter.png" width="34" height="30" alt="Twitter"/></a> 
 
-<a href="https://linkedin.com/in/needyamin" target="_blank">
-    <img src="img/in.png" width="33" height="30" alt="Linkedin"/></a> 
-
 <a href="https://facebook.com/needyaminofficial" target="_blank">
 	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
 			
