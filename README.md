@@ -14,13 +14,8 @@
 <a href="https://facebook.com/needyaminofficial" target="_blank">
 	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
 			
-	
-I am a DevOps engineer with a strong background in building and deploying software and websites for small to medium-sized businesses, specializing in frontend and backend development. Proficient in Python, PHP, SQL, JavaScript, and Cybersecurity.
-
 ### Certificate & Certification 
 > Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
-
-> Google Data Analytics Specialization <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/LE3U3PBB8U2L" style="text-decoration:none;" target="_blank"> Coursera </a>
 
 > CS50 Congratulates <a href="https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74" target="_blank"> Awarded from Cambridge, Massachusetts</a>
 
