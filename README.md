@@ -3,14 +3,7 @@
 `🏫 Department of Statistics, Jahangirnagar University` <br/>
 `📩 needyamin@ansnew.com` <br/>
 `🏠 Dhaka,Bangladesh` <br/>
-
-
-<a href="https://www.twitter.com/needyamin" target="_blank">
-    <img src="img/twitter.png" width="34" height="30" alt="Twitter"/></a> 
-
-<a href="https://facebook.com/needyaminofficial" target="_blank">
-	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
-			
+	
 ### Certificate & Certification 
 > Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
 
