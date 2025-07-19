@@ -1,6 +1,6 @@
 ## Md. Yamin Hossain 🕸️
-`💼 Full-Stack Software Engineer & DevOps Engineer`<br/>
-	
+I am a DevOps engineer and full-stack software engineer, passionate about building scalable applications, automating infrastructure, and creating seamless user experiences.
+
 ### Certificate & Certification 
 > Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
 
