@@ -1,9 +1,5 @@
-## Md. Yamin Hossain 🕷️
-`💼 Senior Software Engineer at Otithee Software Solution Limited`<br/>
-`🎓 Studied Master of Science in Applied Statistics and Data Science` <br/>
-`🏫 Department of Statistics, Jahangirnagar University` <br/>
-`📩 needyamin@ansnew.com` <br/>
-`🏠 Dhaka,Bangladesh` <br/>
+## Md. Yamin Hossain 🕸️
+`💼 Full-Stack Software Engineer & DevOps Engineer`<br/>
 	
 ### Certificate & Certification 
 > Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
