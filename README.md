@@ -1,5 +1,5 @@
 ## Md. Yamin Hossain ☢️
-I am a full-stack software engineer, passionate about building scalable applications, automating infrastructure, and creating seamless user experiences.
+Senior Software Engineer | Specializing in scalable systems, infrastructure automation, and intuitive user experiences.
 
 ### Certificate & Certification 
 > Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
