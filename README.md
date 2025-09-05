@@ -1,5 +1,5 @@
 ## Md. Yamin Hossain ☢️
-Senior Software Engineer | Specializing in scalable systems, infrastructure automation, and intuitive user experiences.
+Software Engineer | Specializing in scalable systems, infrastructure automation, and intuitive user experiences.
 
 ### Certificate & Certification 
 > Google IT Automation with Python <a href="https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP" target="_blank"> Coursera </a>
