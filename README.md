@@ -1,4 +1,4 @@
-## Md. Yamin Hossain ☢️
+## Md. Yamin Hossain
 Software Engineer | Specializing in scalable systems, infrastructure automation, and intuitive user experiences.
 
 ### Certificate & Certification 
