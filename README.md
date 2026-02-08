@@ -26,6 +26,6 @@ Software Engineer | Specializing in scalable systems, infrastructure automation,
   <img src="https://img.shields.io/badge/AWS-★★★★★-09758F" />
   <img src="https://img.shields.io/badge/Cloud Computing★★★★★-09758F" />
   <img src="https://img.shields.io/badge/CI/CD pipelines-★★★★★-F1502F" />
-  <img src="https://img.shields.io/badge/Github-★★★★★-6e5494" />
+  <img src="https://img.shields.io/badge/Git-★★★★★-6e5494" />
     
 </p>
