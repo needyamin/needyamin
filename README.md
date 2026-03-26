@@ -22,11 +22,10 @@ Software Engineer | Specializing in scalable systems, infrastructure automation,
   <img src="https://img.shields.io/badge/BootStrap-★★★★★-563d7c" />
   <img src="https://img.shields.io/badge/Django-★★★★★-092e20" />
   <img src="https://img.shields.io/badge/Laravel-★★★★★-00758F" />
-  <img src="https://img.shields.io/badge/Android Studio-★★★★★-09758F" />
-  <img src="https://img.shields.io/badge/AWS-★★★★★-09758F" />
   <img src="https://img.shields.io/badge/Cloud Computing★★★★★-09758F" />
   <img src="https://img.shields.io/badge/Docker★★★★★-6e5494" />
   <img src="https://img.shields.io/badge/CI/CD pipelines-★★★★★-F1502F" />
   <img src="https://img.shields.io/badge/Git-★★★★★-6e5494" />
+  <img src="https://img.shields.io/badge/Kubernetes★★★★★-09758F" />
     
 </p>
