@@ -16,7 +16,9 @@ Software Engineer focused on building scalable systems, automating infrastructur
   <img src="https://img.shields.io/badge/SQL-★★★★★-F29111" />
   <img src="https://img.shields.io/badge/R-★★★★★-R29111" />
   <img src="https://img.shields.io/badge/Java-★★★★★-00758F" />
+  <img src="https://img.shields.io/badge/Rust-★★★★★-6e5494" />
   <img src="https://img.shields.io/badge/JavaScript-★★★★★-important" />
+  <img src="https://img.shields.io/badge/Node.js-★★★★★-F1502F" />
   <img src="https://img.shields.io/badge/jQuery-★★★★★-00758F" />   
   <img src="https://img.shields.io/badge/BootStrap-★★★★★-563d7c" />
   <img src="https://img.shields.io/badge/Django-★★★★★-092e20" />
@@ -25,6 +27,7 @@ Software Engineer focused on building scalable systems, automating infrastructur
   <img src="https://img.shields.io/badge/Docker★★★★★-6e5494" />
   <img src="https://img.shields.io/badge/Kubernetes★★★★★-09758F" />
   <img src="https://img.shields.io/badge/CI/CD pipelines-★★★★★-F1502F" />
+  <img src="https://img.shields.io/badge/Cloud Computing★★★★★-important" />
   <img src="https://img.shields.io/badge/Git-★★★★★-6e5494" />
     
 </p>
