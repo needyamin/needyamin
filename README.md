@@ -1,10 +1,10 @@
 # Md. Yamin Hossain
 
-### Software Engineer · DevOps · Cloud & Infrastructure · Open Source
+### Software Engineer · DevOps · Data Science · Cloud & Infrastructure · Open Source
 
-I’m a **Software Engineer** focused on building scalable software, automating infrastructure, and designing reliable systems. I enjoy turning ideas into **maintainable, high-performance solutions** that are easy to deploy, operate, and scale.
+I’m a **Software Engineer** focused on building scalable software, automating infrastructure, working with data, and designing reliable systems. I enjoy turning ideas into **maintainable, high-performance solutions** that are built to deploy, operate, analyze, and scale.
 
-My interests span **software engineering, DevOps, cloud infrastructure, containerization, Kubernetes, CI/CD, Linux, and open-source development**.
+My interests span **software engineering, DevOps, cloud infrastructure, data science, machine learning, containerization, Kubernetes, CI/CD, Linux, and open-source development**.
 
 ---
 
@@ -23,7 +23,7 @@ My interests span **software engineering, DevOps, cloud infrastructure, containe
 
 ## 🛠️ Technical Skills
 
-### Programming & Development
+### 💻 Programming & Software Engineering
 
 <p>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
@@ -31,11 +31,22 @@ My interests span **software engineering, DevOps, cloud infrastructure, containe
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 </p>
 
-### Frameworks & Web Technologies
+### 📊 Data Science, Analytics & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🌐 Web Development & Frameworks
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -45,7 +56,7 @@ My interests span **software engineering, DevOps, cloud infrastructure, containe
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-### DevOps, Cloud & Infrastructure
+### ☁️ DevOps, Cloud & Infrastructure
 
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -59,31 +70,33 @@ My interests span **software engineering, DevOps, cloud infrastructure, containe
 
 ---
 
-## 🚀 What I Work On
+## 🚀 Areas of Focus
 
+* 💻 **Software Engineering & Backend Development**
+* 📊 **Data Science & Data Analytics**
+* 🤖 **Machine Learning & AI**
 * ⚙️ **DevOps & Infrastructure Automation**
 * ☁️ **Cloud Infrastructure & Deployment**
 * 🐳 **Docker & Containerized Applications**
 * ☸️ **Kubernetes & Container Orchestration**
-* 🔄 **CI/CD Pipeline Automation**
-* 🐧 **Linux Systems & Server Administration**
-* 💻 **Backend & Web Application Development**
+* 🔄 **CI/CD & Deployment Automation**
+* 🐧 **Linux & Server Administration**
 * 🦀 **Rust & Systems Programming**
-* 🤖 **Local AI & Self-Hosted Infrastructure**
-* 🌱 **Open-Source Projects & Developer Tools**
+* 🌱 **Open-Source Software & Developer Tools**
+* 🏠 **Self-Hosted & Local AI Infrastructure**
 
 ---
 
 ## 🌱 Open Source
 
-I enjoy building and experimenting with **open-source software, automation tools, developer utilities, and self-hosted infrastructure**.
+I enjoy building and experimenting with **open-source software, automation tools, developer utilities, data-driven applications, machine learning projects, and self-hosted infrastructure**.
 
-I’m always interested in collaborating on projects involving **DevOps, Linux, cloud infrastructure, automation, backend systems, and open-source tooling**.
+I’m interested in collaborating on projects involving **software engineering, data science, machine learning, DevOps, Linux, cloud infrastructure, AI, automation, and developer tooling**.
 
 ---
 
 ## 📫 Connect & Collaborate
 
-If you're interested in **open-source collaboration, infrastructure, automation, or software engineering**, feel free to connect and explore my repositories.
+If you're interested in **open-source collaboration, data science, infrastructure, automation, or software engineering**, feel free to explore my repositories and connect.
 
-> **Build. Automate. Scale. Repeat.**
+> **Build. Analyze. Automate. Scale.**
