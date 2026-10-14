@@ -87,13 +87,10 @@ Live numbers from the public profile. They update on their own.
 
 ## Credentials
 
-* **Google IT Automation with Python** — Coursera  
-  [View certificate](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP)
-* **Google Data Analytics** — Coursera
-* **CS50x — Introduction to Computer Science** — Harvard University  
-  [View certificate](https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74)
-* **Computer Science for Web Programming** — HarvardX / edX  
-  [View certificate](https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/)
+* **Google IT Automation with Python** — Coursera  [View certificate](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP)
+* **Google Data Analytics** — Coursera  [View certificate](https://www.coursera.org/account/accomplishments/specialization/UBFKWEJRA5US)
+* **CS50x — Introduction to Computer Science** — Harvard University  [View certificate](https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74)
+* **Computer Science for Web Programming** — HarvardX / edX  [View certificate](https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/)
 
 ## Collaborate
 
