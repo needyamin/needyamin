@@ -1,102 +1,102 @@
+<div align="center">
+
 # Md. Yamin Hossain
 
-### Software Engineer · DevOps · Data Science · Cloud & Infrastructure · Open Source
+**Senior Software Engineer** · Dhaka, Bangladesh
 
-I’m a **Software Engineer** focused on building scalable software, automating infrastructure, working with data, and designing reliable systems. I enjoy turning ideas into **maintainable, high-performance solutions** that are built to deploy, operate, analyze, and scale.
+I transform ideas into digital reality.
 
-My interests span **software engineering, DevOps, cloud infrastructure, data science, machine learning, containerization, Kubernetes, CI/CD, Linux, and open-source development**.
+[Portfolio](https://needyamin.github.io) · [GitHub](https://github.com/needyamin) · [Email](mailto:mdyamin@gmail.com)
 
----
-
-## 🎓 Certifications & Professional Education
-
-* **Google IT Automation with Python** — Coursera
-  [View Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP)
-
-* **CS50x — Introduction to Computer Science** — Harvard University
-  [View Certificate](https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74)
-
-* **Professional Certificate in Computer Science for Web Programming** — HarvardX / edX
-  [View Certificate](https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/)
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+I build software that has to ship, run, and stay understandable. That covers full-stack products, data work, and the infrastructure around them: Laravel and Spring services, Python analytics, Dockerized deploys, and lower-level projects in Rust and C.
 
-### 💻 Programming & Software Engineering
+I am a Senior Software Engineer at Otithee.com, I take freelance work through Upwork, and I publish open source as [ANSNEW TECH.](https://github.com/needyamin). My background includes a Master's in Applied Statistics and Data Science, so the same projects often mix product engineering with analysis.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+## What I work on
+
+| Area | In practice |
+| --- | --- |
+| Product engineering | Web apps and microservices with auth, payments, and admin systems |
+| Data | Statistics, Python analysis, and small language models that train on one machine |
+| Systems | Native apps, Linux tooling, containers, and self-hosted infrastructure |
+| Automation | CI/CD, browser extensions, and command-line agents |
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,django,javascript,react,java,spring,rust,c,typescript,docker,linux,aws,mysql,postgresql,git,nodejs&perline=9" alt="Python, PHP, Laravel, Django, JavaScript, React, Java, Spring, Rust, C, TypeScript, Docker, Linux, AWS, MySQL, PostgreSQL, Git, Node.js" />
 </p>
 
-### 📊 Data Science, Analytics & Machine Learning
+Python and PHP lead the public repositories, with JavaScript, Java, TypeScript, Rust, and C beside them. Day to day that means Laravel, Django, Spring Boot, React, MySQL, PostgreSQL, Docker, Linux, AWS, and GitHub Actions. Data work sits on Pandas, NumPy, scikit-learn, R, and SQL.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+## Selected work
+
+Six public projects: an operating system, native desktop apps, a self-hosted file manager, and a browser extension.
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/needyamin/YamOS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=YamOS&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="YamOS — x86_64 operating system built around YamKernel" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/needyamin/pdf-reader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=pdf-reader&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="pdf-reader — native cross-platform PDF reader in Rust" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/needyamin/project-yx">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=project-yx&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="project-yx — desktop video editor for low-end CPUs" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/needyamin/media-downloader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=media-downloader&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="media-downloader — desktop app for download, convert, and capture" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/needyamin/ansnew-cloud">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=ansnew-cloud&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="ansnew-cloud — self-hosted file manager with encryption at rest" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/needyamin/auto-form-fill-browser-extension">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=auto-form-fill-browser-extension&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="auto-form-fill-browser-extension — Chrome and Firefox form filler" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+## GitHub
+
+Live numbers from the public profile. They update on their own.
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=needyamin&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats for needyamin" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=needyamin&layout=compact&hide_border=true&langs_count=8&hide=hack&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="Top languages for needyamin" />
 </p>
 
-### 🌐 Web Development & Frameworks
+## Credentials
 
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
+* **Google IT Automation with Python** — Coursera  
+  [View certificate](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP)
+* **Google Data Analytics** — Coursera
+* **CS50x — Introduction to Computer Science** — Harvard University  
+  [View certificate](https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74)
+* **Computer Science for Web Programming** — HarvardX / edX  
+  [View certificate](https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/)
 
-### ☁️ DevOps, Cloud & Infrastructure
+## Collaborate
 
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+I am open to work on software engineering, data science, infrastructure, and developer tools.
 
----
-
-## 🚀 Areas of Focus
-
-* 💻 **Software Engineering & Backend Development**
-* 📊 **Data Science & Data Analytics**
-* 🤖 **Machine Learning & AI**
-* ⚙️ **DevOps & Infrastructure Automation**
-* ☁️ **Cloud Infrastructure & Deployment**
-* 🐳 **Docker & Containerized Applications**
-* ☸️ **Kubernetes & Container Orchestration**
-* 🔄 **CI/CD & Deployment Automation**
-* 🐧 **Linux & Server Administration**
-* 🦀 **Rust & Systems Programming**
-* 🌱 **Open-Source Software & Developer Tools**
-* 🏠 **Self-Hosted & Local AI Infrastructure**
-
----
-
-## 🌱 Open Source
-
-I enjoy building and experimenting with **open-source software, automation tools, developer utilities, data-driven applications, machine learning projects, and self-hosted infrastructure**.
-
-I’m interested in collaborating on projects involving **software engineering, data science, machine learning, DevOps, Linux, cloud infrastructure, AI, automation, and developer tooling**.
-
----
-
-## 📫 Connect & Collaborate
-
-If you're interested in **open-source collaboration, data science, infrastructure, automation, or software engineering**, feel free to explore my repositories and connect.
-
-> **Build. Analyze. Automate. Scale.**
+**Build. Analyze. Automate. Scale.**
