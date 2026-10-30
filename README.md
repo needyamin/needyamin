@@ -70,7 +70,7 @@ Six public projects: an operating system, native desktop apps, a self-hosted fil
     </td>
     <td width="50%">
       <a href="https://github.com/needyamin/spid3r">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=spid3r&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="spid3r — Chrome and Firefox form filler" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=spid3r&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" alt="spid3r — programming language" />
       </a>
     </td>
   </tr>
