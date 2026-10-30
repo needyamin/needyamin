@@ -35,7 +35,7 @@ Python and PHP lead the public repositories, with JavaScript, Java, TypeScript, 
 
 ## Selected work
 
-Six public projects: an operating system, native desktop apps, a self-hosted file manager, and a browser extension.
+Six public projects: an operating system, native desktop apps, a self-hosted file manager, and a browser extension
 
 <table>
   <tr>
