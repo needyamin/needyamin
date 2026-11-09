@@ -10,20 +10,24 @@
 
 *My complete software stack built from scratch: custom language ➔ MVC web framework ➔ production store.*
 
-![Language](https://img.shields.io/badge/1._Language-spid3r-FF4B4B?style=for-the-badge&logo=rust&logoColor=white)
-**➔**
-![Framework](https://img.shields.io/badge/2._Framework-spid3r__web-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white)
-**➔**
-![Platform](https://img.shields.io/badge/3._Platform-spid3r__ecommerce-10B981?style=for-the-badge&logo=shopify&logoColor=white)
+
+<p >
+  <img src="https://img.shields.io/badge/1._Language-spid3r-FF4B4B?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/2._Framework-spid3r__web-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/3._Platform-spid3r__ecommerce-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
 
 
----
 
+## 👨‍💻 About Me
 
 I am a **Senior Software Engineer and Open-Source Creator** at **[ANSNEW TECH](https://github.com/needyamin)**, focused on building transparent, high-performance software and self-contained technology ecosystems spanning programming languages, frameworks, native applications, and data tools.
 
+
   
-## Core Projects
+## 💻 Core Projects
 
 Systems programming, native desktop applications, and self-hosted cloud tools:
 
@@ -33,10 +37,6 @@ Systems programming, native desktop applications, and self-hosted cloud tools:
 | **[pdf-reader](https://github.com/needyamin/pdf-reader)** | `Rust Desktop` | Fast, lightweight cross-platform PDF reader written natively in Rust. |
 | **[project-yx](https://github.com/needyamin/project-yx)** | `Video Editor` | Desktop video editor optimized to run smoothly on low-end CPUs. |
 | **[ansnew-cloud](https://github.com/needyamin/ansnew-cloud)** | `Self-Hosted` | Cloud file manager with encryption at rest and a clean web interface. |
-
----
-
-
 
 
 
