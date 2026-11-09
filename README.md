@@ -1,5 +1,3 @@
-<div align="center">
-
 # Md. Yamin Hossain
 
 **Senior Software Engineer & Applied Data Scientist** · Dhaka, Bangladesh
@@ -18,7 +16,6 @@
 **➔**
 ![Platform](https://img.shields.io/badge/3._Platform-spid3r__ecommerce-10B981?style=for-the-badge&logo=shopify&logoColor=white)
 
-</div>
 
 ---
 
