@@ -14,15 +14,17 @@
 
 ---
 
-## 👋 Who I Am
+<div align="center">
 
-I am a Senior Software Engineer and open-source creator under **[ANSNEW TECH.](https://github.com/needyamin)**
+I am a **Senior Software Engineer and Open-Source Creator** at **[ANSNEW TECH](https://github.com/needyamin)**, focused on building transparent, high-performance software and self-contained technology ecosystems spanning programming languages, frameworks, native applications, and data tools.
 
-- **My Vision:** Software should be transparent, fast, and dependable at every layer.
-- **My Goal:** Build self-contained ecosystems languages, frameworks, native apps, and data tools that solve real problems without bloat.
+</div>
 
 ---
 
+
+<div align="center">
+  
 ## 🕷️ Featured Ecosystem: The Spid3r Stack
 
 <div align="center">
@@ -37,91 +39,23 @@ I am a Senior Software Engineer and open-source creator under **[ANSNEW TECH.](h
 
 </div>
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h3>🔴 <a href="https://github.com/needyamin/spid3r">spid3r</a></h3>
-      <img src="https://img.shields.io/badge/Language_&_VM-FF4B4B?style=flat-square" alt="Language & VM" />
-      <p>Custom programming language with a tree-walk interpreter, bytecode VM, static checker, and SQL drivers.</p>
-      <a href="https://github.com/needyamin/spid3r">
-        <img src="https://img.shields.io/badge/View_Repo-%E2%86%92-FF4B4B?style=flat-square" alt="Explore spid3r" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🟣 <a href="https://github.com/needyamin/spid3r_web">spid3r_web</a></h3>
-      <img src="https://img.shields.io/badge/MVC_Framework_v2.0-7C3AED?style=flat-square" alt="MVC Framework" />
-      <p>Modern MVC web framework featuring Onion middleware, <code>SpiderBD</code> templates, zero-boilerplate ORM, and <code>magic</code> CLI.</p>
-      <a href="https://github.com/needyamin/spid3r_web">
-        <img src="https://img.shields.io/badge/View_Repo-%E2%86%92-7C3AED?style=flat-square" alt="Explore spid3r_web" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h3>🟢 <a href="https://github.com/needyamin/spid3r_ecommerce">spid3r_ecommerce</a></h3>
-      <img src="https://img.shields.io/badge/E--Commerce_Store-10B981?style=flat-square" alt="E-Commerce Store" />
-      <p>Full online store with catalog, cart, payment gateways (bKash, Nagad, SSLCommerz, Stripe), and an 8-module Admin SPA.</p>
-      <a href="https://github.com/needyamin/spid3r_ecommerce">
-        <img src="https://img.shields.io/badge/View_Repo-%E2%86%92-10B981?style=flat-square" alt="Explore spid3r_ecommerce" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-
-
----
-
-## 🚀 Systems, Native & Cloud Projects
-
-<div align="center">
-
-![OS Kernel](https://img.shields.io/badge/OS_Kernel-x86__64_&_C-F59E0B?style=for-the-badge&logo=linux&logoColor=white)
-![Desktop Apps](https://img.shields.io/badge/Native_Apps-Rust_&_GUI-06B6D4?style=for-the-badge&logo=rust&logoColor=white)
-![Self-Hosted](https://img.shields.io/badge/Cloud_Storage-Encrypted-EC4899?style=for-the-badge&logo=icloud&logoColor=white)
-
-*Low-level operating systems, lightweight native desktop utilities, and encrypted self-hosted cloud tools.*
-
 </div>
 
-<table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🟡 <a href="https://github.com/needyamin/YamOS">YamOS</a></h3>
-      <img src="https://img.shields.io/badge/x86__64_OS-YamKernel-F59E0B?style=flat-square" alt="YamOS" />
-      <p>Custom 64-bit operating system built from scratch around <code>YamKernel</code>.</p>
-      <a href="https://github.com/needyamin/YamOS">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=YamOS&hide_border=false&border_color=F59E0B&bg_color=0d1117&title_color=FBBF24&text_color=c9d1d9&icon_color=F59E0B" alt="YamOS" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🔵 <a href="https://github.com/needyamin/pdf-reader">pdf-reader</a></h3>
-      <img src="https://img.shields.io/badge/Native_Desktop-Rust-06B6D4?style=flat-square" alt="pdf-reader" />
-      <p>Fast, lightweight cross-platform PDF reader written natively in Rust.</p>
-      <a href="https://github.com/needyamin/pdf-reader">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=pdf-reader&hide_border=false&border_color=06B6D4&bg_color=0d1117&title_color=22D3EE&text_color=c9d1d9&icon_color=06B6D4" alt="pdf-reader" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>🟠 <a href="https://github.com/needyamin/project-yx">project-yx</a></h3>
-      <img src="https://img.shields.io/badge/Video_Editor-Low--End_CPU-F97316?style=flat-square" alt="project-yx" />
-      <p>Desktop video editor optimized to run smoothly on low-end hardware.</p>
-      <a href="https://github.com/needyamin/project-yx">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=project-yx&hide_border=false&border_color=F97316&bg_color=0d1117&title_color=FB923C&text_color=c9d1d9&icon_color=F97316" alt="project-yx" />
-      </a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🩷 <a href="https://github.com/needyamin/ansnew-cloud">ansnew-cloud</a></h3>
-      <img src="https://img.shields.io/badge/Self--Hosted_Cloud-AES_Encrypted-EC4899?style=flat-square" alt="ansnew-cloud" />
-      <p>Self-hosted cloud file manager with encryption at rest and clean web UI.</p>
-      <a href="https://github.com/needyamin/ansnew-cloud">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=ansnew-cloud&hide_border=false&border_color=EC4899&bg_color=0d1117&title_color=F472B6&text_color=c9d1d9&icon_color=EC4899" alt="ansnew-cloud" />
-      </a>
-    </td>
-  </tr>
-</table>
+---
+
+## Other Selected Projects
+
+Systems programming, native desktop applications, and self-hosted cloud tools:
+
+| Project | Focus | Description |
+| :--- | :--- | :--- |
+| **[YamOS](https://github.com/needyamin/YamOS)** | `x86_64 OS` | Custom 64-bit operating system built from scratch around `YamKernel`. |
+| **[pdf-reader](https://github.com/needyamin/pdf-reader)** | `Rust Desktop` | Fast, lightweight cross-platform PDF reader written natively in Rust. |
+| **[project-yx](https://github.com/needyamin/project-yx)** | `Video Editor` | Desktop video editor optimized to run smoothly on low-end CPUs. |
+| **[ansnew-cloud](https://github.com/needyamin/ansnew-cloud)** | `Self-Hosted` | Cloud file manager with encryption at rest and a clean web interface. |
 
 ---
+
 
 ## 🛠️ Tech Stack & Stats
 
