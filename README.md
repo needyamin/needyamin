@@ -56,18 +56,6 @@ Systems programming, native desktop applications, and self-hosted cloud tools:
 
 ---
 
-
-## 🛠️ Tech Stack & Stats
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,laravel,django,javascript,react,java,spring,rust,c,typescript,docker,linux,aws,mysql,postgresql,git,nodejs&perline=9" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=needyamin&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=needyamin&layout=compact&hide_border=true&langs_count=8&hide=hack&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top languages" />
-</p>
-
 ## 🎓 Certifications
 
 - **CS50x** & **CS50 Web Programming** — Harvard University ([CS50x](https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74) · [Web](https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/))
