@@ -20,8 +20,25 @@ I am a **Senior Software Engineer and Open-Source Creator** at **[ANSNEW TECH](h
 
 </div>
 
+
+<div align="center">
+  
+## Core Projects
+
+Systems programming, native desktop applications, and self-hosted cloud tools:
+
+| Project | Focus | Description |
+| :--- | :--- | :--- |
+| **[YamOS](https://github.com/needyamin/YamOS)** | `x86_64 OS` | Custom 64-bit operating system built from scratch around `YamKernel`. |
+| **[pdf-reader](https://github.com/needyamin/pdf-reader)** | `Rust Desktop` | Fast, lightweight cross-platform PDF reader written natively in Rust. |
+| **[project-yx](https://github.com/needyamin/project-yx)** | `Video Editor` | Desktop video editor optimized to run smoothly on low-end CPUs. |
+| **[ansnew-cloud](https://github.com/needyamin/ansnew-cloud)** | `Self-Hosted` | Cloud file manager with encryption at rest and a clean web interface. |
+
+</div>
+
 ---
 
+---
 
 <div align="center">
   
@@ -43,18 +60,7 @@ I am a **Senior Software Engineer and Open-Source Creator** at **[ANSNEW TECH](h
 
 ---
 
-## Other Selected Projects
 
-Systems programming, native desktop applications, and self-hosted cloud tools:
-
-| Project | Focus | Description |
-| :--- | :--- | :--- |
-| **[YamOS](https://github.com/needyamin/YamOS)** | `x86_64 OS` | Custom 64-bit operating system built from scratch around `YamKernel`. |
-| **[pdf-reader](https://github.com/needyamin/pdf-reader)** | `Rust Desktop` | Fast, lightweight cross-platform PDF reader written natively in Rust. |
-| **[project-yx](https://github.com/needyamin/project-yx)** | `Video Editor` | Desktop video editor optimized to run smoothly on low-end CPUs. |
-| **[ansnew-cloud](https://github.com/needyamin/ansnew-cloud)** | `Self-Hosted` | Cloud file manager with encryption at rest and a clean web interface. |
-
----
 
 ## 🎓 Certifications
 
@@ -62,6 +68,7 @@ Systems programming, native desktop applications, and self-hosted cloud tools:
 - **Google IT Automation with Python** & **Google Data Analytics** — Coursera ([Python](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP) · [Data](https://www.coursera.org/account/accomplishments/specialization/UBFKWEJRA5US))
 
 ---
+
 
 <div align="center">
 
