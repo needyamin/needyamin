@@ -16,10 +16,10 @@
 
 ## 👋 Who I Am
 
-I am a Senior Software Engineer and open-source creator under **[ANSNEW TECH.](https://github.com/needyamin)** with a Master's in **Applied Statistics and Data Science**.
+I am a Senior Software Engineer and open-source creator under **[ANSNEW TECH.](https://github.com/needyamin)**
 
 - **My Vision:** Software should be transparent, fast, and dependable at every layer.
-- **My Goal:** Build self-contained ecosystems—languages, frameworks, native apps, and data tools—that solve real problems without bloat.
+- **My Goal:** Build self-contained ecosystems languages, frameworks, native apps, and data tools that solve real problems without bloat.
 
 ---
 
@@ -66,17 +66,7 @@ I am a Senior Software Engineer and open-source creator under **[ANSNEW TECH.](h
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/needyamin/spid3r">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=spid3r&hide_border=false&border_color=FF4B4B&bg_color=0d1117&title_color=FF4B4B&text_color=c9d1d9&icon_color=FF4B4B" alt="spid3r" />
-  </a>
-  <a href="https://github.com/needyamin/spid3r_web">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=spid3r_web&hide_border=false&border_color=7C3AED&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&icon_color=A78BFA" alt="spid3r_web" />
-  </a>
-  <a href="https://github.com/needyamin/spid3r_ecommerce">
-    <img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=needyamin&repo=spid3r_ecommerce&hide_border=false&border_color=10B981&bg_color=0d1117&title_color=34D399&text_color=c9d1d9&icon_color=34D399" alt="spid3r_ecommerce" />
-  </a>
-</p>
+
 
 ---
 
