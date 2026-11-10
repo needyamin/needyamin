@@ -4,10 +4,6 @@
 
 *I turn ideas into fast, reliable software from custom compilers and kernels to production web platforms.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-needyamin.github.io-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://needyamin.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-needyamin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/needyamin)
-[![Email](https://img.shields.io/badge/Email-mdyamin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdyamin@gmail.com)
-
 *My complete software stack built from scratch: custom language ➔ MVC web framework ➔ production store.*
 
 
@@ -29,7 +25,11 @@
 
 ## 👨‍💻 About Me
 
-I am the **Founder & CEO of [ANSNEW TECH](https://github.com/needyamin)** and an **Open-Source Creator**, leading the development of transparent, high-performance software and self-contained technology ecosystems spanning programming languages, frameworks, native applications, and data tools. I am passionate about building innovative, scalable, and open-source technologies that empower developers and advance the software ecosystem.
+I am the **Founder & CEO of [ANSNEW TECH](https://inside.ansnew.com)** and an **Open-Source Creator**, leading the development of transparent, high-performance software and self-contained technology ecosystems spanning programming languages, frameworks, native applications, and data tools. I am passionate about building innovative, scalable, and open-source technologies that empower developers and advance the software ecosystem.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-needyamin.github.io-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://needyamin.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-needyamin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/needyamin)
+[![Email](https://img.shields.io/badge/Email-mdyamin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdyamin@gmail.com)
 
   
 ## 💻 Core Projects
@@ -48,7 +48,12 @@ Systems programming, native desktop applications, and self-hosted cloud tools:
 
 ## 🎓 Certifications
 
-- **CS50x** & **CS50 Web Programming** — Harvard University ([CS50x](https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74) · [Web](https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/))
-- **Google IT Automation with Python** & **Google Data Analytics** — Coursera ([Python](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP) · [Data](https://www.coursera.org/account/accomplishments/specialization/UBFKWEJRA5US))
+| Certification | Institution / Platform | Credentials |
+|:---|:---|:---|
+| **CS50x** & **CS50 Web Programming** | Harvard University · edX | [CS50x](https://cs50.harvard.edu/certificates/5297b1cd-74c6-4796-906b-f2d594fb4c74) · [CS50W](https://credentials.edx.org/credentials/e2b22effee6c4798a9720b82d8083a36/) |
+| **Google IT Automation with Python** & **Google Data Analytics** | Google · Coursera | [Python](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP) · [Data](https://www.coursera.org/account/accomplishments/specialization/UBFKWEJRA5US) |
 
 ---
+
+
+
