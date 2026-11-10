@@ -46,7 +46,7 @@ Systems programming, native desktop applications, and self-hosted cloud tools:
 
 
 
-## 🎓 Certifications
+## Certifications
 
 | Certification | Institution / Platform | Credentials |
 |:---|:---|:---|
