@@ -11,12 +11,18 @@
 *My complete software stack built from scratch: custom language ➔ MVC web framework ➔ production store.*
 
 
-<p >
-  <img src="https://img.shields.io/badge/1._Language-spid3r-FF4B4B?style=for-the-badge&logo=rust&logoColor=white" />
+<p>
+  <a href="https://github.com/needyamin/spid3r">
+    <img src="https://img.shields.io/badge/1._Language-spid3r-FF4B4B?style=for-the-badge&logo=rust&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/2._Framework-spid3r__web-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://github.com/needyamin/spid3r_web">
+    <img src="https://img.shields.io/badge/2._Framework-spid3r__web-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/3._Platform-spid3r__ecommerce-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
+  <a href="https://github.com/needyamin/spid3r_ecommerce">
+    <img src="https://img.shields.io/badge/3._Platform-spid3r__ecommerce-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
+  </a>
 </p>
 
 
@@ -46,10 +52,3 @@ Systems programming, native desktop applications, and self-hosted cloud tools:
 - **Google IT Automation with Python** & **Google Data Analytics** — Coursera ([Python](https://www.coursera.org/account/accomplishments/professional-cert/8FHCA46QRUEP) · [Data](https://www.coursera.org/account/accomplishments/specialization/UBFKWEJRA5US))
 
 ---
-
-
-<div align="center">
-
-**Build · Analyze · Automate · Scale**
-
-</div>
