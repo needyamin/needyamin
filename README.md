@@ -23,7 +23,7 @@
 
 
 
-## 👨‍💻 About Me
+## About Me
 
 I am the **Founder & CEO of [ANSNEW TECH](https://inside.ansnew.com)** and an **Open-Source Creator**, leading the development of transparent, high-performance software and self-contained technology ecosystems spanning programming languages, frameworks, native applications, and data tools. I am passionate about building innovative, scalable, and open-source technologies that empower developers and advance the software ecosystem.
 
@@ -32,7 +32,7 @@ I am the **Founder & CEO of [ANSNEW TECH](https://inside.ansnew.com)** and an **
 [![Email](https://img.shields.io/badge/Email-mdyamin%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdyamin@gmail.com)
 
   
-## 💻 Core Projects
+## Core Projects
 
 Systems programming, native desktop applications, and self-hosted cloud tools:
 
