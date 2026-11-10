@@ -29,8 +29,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Software Engineer and Open-Source Creator** at **[ANSNEW TECH](https://github.com/needyamin)**, focused on building transparent, high-performance software and self-contained technology ecosystems spanning programming languages, frameworks, native applications, and data tools.
-
+I am the **Founder & CEO of [ANSNEW TECH](https://github.com/needyamin)** and an **Open-Source Creator**, leading the development of transparent, high-performance software and self-contained technology ecosystems spanning programming languages, frameworks, native applications, and data tools. I am passionate about building innovative, scalable, and open-source technologies that empower developers and advance the software ecosystem.
 
   
 ## 💻 Core Projects
@@ -43,6 +42,7 @@ Systems programming, native desktop applications, and self-hosted cloud tools:
 | **[pdf-reader](https://github.com/needyamin/pdf-reader)** | `Rust Desktop` | Fast, lightweight cross-platform PDF reader written natively in Rust. |
 | **[project-yx](https://github.com/needyamin/project-yx)** | `Video Editor` | Desktop video editor optimized to run smoothly on low-end CPUs. |
 | **[ansnew-cloud](https://github.com/needyamin/ansnew-cloud)** | `Self-Hosted` | Cloud file manager with encryption at rest and a clean web interface. |
+| **[media-downloader](https://github.com/needyamin/media-downloader)** | `Media Downloader` | An all-in-one desktop app to download, convert, edit, capture, and record media. |
 
 
 
