@@ -1,6 +1,6 @@
 # Md. Yamin Hossain
 
-**Senior Software Engineer & Applied Data Scientist** · Dhaka, Bangladesh
+**Software Engineering | DevOps | Data Science & Analytics** · Dhaka, Bangladesh
 
 *I turn ideas into fast, reliable software from custom compilers and kernels to production web platforms.*
 
