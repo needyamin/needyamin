@@ -1,6 +1,6 @@
 # Md. Yamin Hossain
 
-**Software Engineering | DevOps | Data Science & Analytics** · Dhaka, Bangladesh
+**Software Engineer | DevOps & Cloud Engineer | Scientific Data Analyst**  ·  Dhaka, Bangladesh
 
 *I turn ideas into fast, reliable software from custom compilers and kernels to production web platforms.*
 
