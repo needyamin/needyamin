@@ -17,8 +17,16 @@
   </a>
   <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
   <a href="https://github.com/needyamin/spid3r_ecommerce">
-    <img src="https://img.shields.io/badge/3._Platform-spid3r__ecommerce-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
+    <img src="https://img.shields.io/badge/3._eCommerce-spid3r__ecommerce-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
   </a>
+
+  <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
+  
+  <a href="https://github.com/needyamin/spid3r-studio">
+    <img src="https://img.shields.io/badge/3._App_Studio-spid3r__studio-10B981?style=for-the-badge&logo=shopify&logoColor=white" />
+  </a>
+
+  
 </p>
 
 
