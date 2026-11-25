@@ -4,7 +4,7 @@
 
 *I turn ideas into fast, reliable software from custom compilers and kernels to production web platforms.*
 
-*My complete software stack built from scratch: custom language ➔ MVC web framework ➔ production store.*
+*My complete software stack built from scratch: Custom language ➔ MVC web framework ➔ App Studio.*
 
 
 <p>
