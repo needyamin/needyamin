@@ -13,7 +13,7 @@
   </a>
   <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
   <a href="https://github.com/needyamin/spid3r_web">
-    <img src="https://img.shields.io/badge/2._Framework-spid3r__web-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/2._Web_Framework-spid3r__web-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
 
   <img src="https://img.shields.io/badge/⟶-FF4B4B?style=for-the-badge&logoColor=white" />
